@@ -2157,7 +2157,7 @@ WEBKIT2_EXT_CXXFLAGS = $(WX_CPPFLAGS) -DWXUSINGDLL -DwxUSE_GUI=0 $(PIC_FLAG) \
 	$(WX_CXXFLAGS) $(CPPFLAGS) $(CXXFLAGS)
 WEBKIT2_EXT_OBJECTS =  \
 	webkit2_ext_webview_webkit2_extension.o
-LOCALE_LINGUAS = ca cs da de el es fi fr hu id it ja nl pl ru sl sv tr uk zh zh_CN zh_TW
+LOCALE_LINGUAS = ca cs da de el es fi fr hu id it ja nl pl ru sl sv tr uk zh zh_CN zh_TW vi_VN
 
 ### Conditionally set variables: ###
 
